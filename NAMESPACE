@@ -1,0 +1,6 @@
+
+
+import(rms, mclogit)
+
+export(
+abs_dif, env_dif, env_dif_logistic, fam_env, log_dif)

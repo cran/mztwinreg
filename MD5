@@ -1,0 +1,15 @@
+f9a06fa96b2e7f2846276d24035f7dc5 *DESCRIPTION
+c2d7245b18e73bb65314bb16030b743c *NAMESPACE
+cc48cde7aa153ba9805a188585de6c28 *R/abs_dif.R
+fb4461fb48d97ece2f1eaea69407261f *R/env_dif.R
+44b736d45c7600bdb536d908942009c4 *R/env_dif_logistic.R
+7fa22a30c2b7a0ec3aae1fd5f83e7366 *R/fam_env.R
+5543fcac997ee63b891027c4ccd9c8e9 *R/log_dif.R
+0b2b18bf7d3738bc6cdf4bddbf234985 *data/flu_weight.rda
+f82c0e82d312cbd26ac84b151247a8ff *man/abs_dif.Rd
+73060e8ebf630cdbf80b579b7ad72dd3 *man/env_dif.Rd
+3fe993ed8a7257860ef8f6f591d0040c *man/env_dif_logistic.Rd
+5a54e0959aff4076e747dc125d584176 *man/fam_env.Rd
+a0e7b8832dfc43c727c408ea04630246 *man/flu_weight.Rd
+75731c5553ef35785d318283df06d7f2 *man/log_dif.Rd
+192efd27f267788446761659cfe90917 *man/mztwinreg-package.Rd
